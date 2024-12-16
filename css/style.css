@@ -1023,18 +1023,19 @@ ul.link_menu li a:hover {
 .medium_post {
      margin-left: 25%;
      margin-right: 25%;
+     text-align: justify;
+     font-size: 17px;
+     color:#222;
 }
 
 .medium_content {
-     margin-top: 1%;
-     margin-bottom: 1%;
      text-align: justify;
      font-size: 17px;
      color:#222;
 }
 
 .medium_caption {
-     margin-top: 1%;
+     margin-top: 2%;
      margin-bottom: 2%;
      text-align: center;
      font-size: 14px;
@@ -1042,8 +1043,8 @@ ul.link_menu li a:hover {
 }
 
 .medium_header {
-     margin-top: 1%;
-     margin-bottom: 1%;
+     margin-top: 2%;
+     margin-bottom: 2%;
      text-align: left;
      font-size: 20px;
      color:#000;
