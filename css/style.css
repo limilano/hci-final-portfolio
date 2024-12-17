@@ -1028,6 +1028,10 @@ ul.link_menu li a:hover {
      color:#222;
 }
 
+.medium_post a{
+     color:#0000EE;
+}
+
 .medium_content {
      text-align: justify;
      font-size: 17px;
